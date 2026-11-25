@@ -1,4 +1,4 @@
-# Elite Network Architecture – ISP + Enterprise Hybrid (Nepal Context)
+#  Network Architecture – ISP + Enterprise Hybrid (Nepal Context)
 
 **Purpose:**  
 This project demonstrates senior-level network architecture thinking by modeling a hybrid ISP + Enterprise network. It emphasizes **failure reasoning, attack-aware design, trust boundaries, and risk-informed decisions** — all without relying on tool outputs or configuration files. The artifacts are defendable, showing both **engineering judgment** and **systems-level thinking**.
